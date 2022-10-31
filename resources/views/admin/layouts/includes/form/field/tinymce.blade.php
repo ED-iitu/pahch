@@ -1,0 +1,1 @@
+@include('admin.layouts.includes.form.field.ckeditor')

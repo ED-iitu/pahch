@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!body.blade.php
+!header.blade.php
+!scripts.blade.php
